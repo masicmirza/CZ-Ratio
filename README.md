@@ -6,6 +6,7 @@ Simple and tiny jQuery plugin for keeping/setting ratio of an element.
 This simple plugin is easy to use (only two options) and with it you can set the ratio (whichever you want) to any element you chose. There are two options for adjusting the results according to your needs. The plugin is tiny - just **369 bytes** gzipped or **586 bytes** without gzip (minified version).
 
 ## Demo
+* For live demo see [JSFiddle](https://jsfiddle.net/mirzamasic/60vsbLkt/)
 
 ## Requirements
 * jQuery 1.9.1+
